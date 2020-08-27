@@ -1,0 +1,16 @@
+.brand {
+  background: #cbb09c;
+}
+.brand-text {
+  color: #cbb09c;
+}
+form {
+  max-width: 460px;
+  margin: 20px auto;
+  padding: 20px;
+}
+.tabrez {
+  text-align: left;
+  color: #cbb09c;
+  font-size: 40px;
+}
